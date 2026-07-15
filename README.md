@@ -281,7 +281,11 @@ flake8 CLTEcho.py or python3 CLTEcho.py
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif" 
+       alt="Cybersecurity GIF" 
+       width="100%">
+</p>
 
 # ⚠️ Disclaimer
 
@@ -308,7 +312,11 @@ Custom Reports ❌ ✅ ✅
 API Integration ❌ ❌ ✅
 Web Dashboard ❌ ❌ ✅
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/GFLB1pCmhgvIDSJTvp/giphy.gif"
+       alt="Hacker Matrix Animation"
+       width="100%">
+</p>
 
 🔗 Related Projects
 
