@@ -1,7 +1,10 @@
 # 🚀 CLTEcho - HTTP Request Smuggling Detection Suite
 
-Advanced HTTP Request Smuggling Detection with AI-Powered Analysis & Real-time Monitoring
+<p align="center">
+  <img src="assets/1.png" alt="Banner 1" width="100%">
+</p>
 
+Advanced HTTP Request Smuggling Detection with AI-Powered Analysis & Real-time Monitoring
 
 ---
 
@@ -55,6 +58,9 @@ python CLTEcho.py -u https://example.com --enhanced
 # Run concurrent scan on multiple targets
 python CLTEcho.py -f targets.txt --enhanced --concurrent --parallel
 
+<p align="center">
+  <img src="assets/2.png" alt="Banner 2" width="100%">
+</p>
 
 ---
 
